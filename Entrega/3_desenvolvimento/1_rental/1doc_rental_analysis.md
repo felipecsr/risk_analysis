@@ -27,6 +27,8 @@ Antes de nos aprofundarmos, vejamos um **resumo** do que cada etapa se propõe a
     * **Objetivo**: Utilizar esse fluxo projetado em consultas SQL para compor a análise de risco, distribuindo valores de aluguel/condomínio/IPTU, receitas financeiras, taxas de desconto (valor presente), penalidades por rescisão, exposição a danos etc.
 	Essa última etapa permitirá chegar a bases consolidadas que permitem estimar a necessidade de reserva técnica (quanto a empresa precisa ter para cobrir eventuais sinistros e inadimplências numa determinada posição da carteira).  
 
+![visualização de etapas](../1_rental/visual.jpg)
+
 <br/>
 
 # 🕵 Detalhamento: Etapas de Análise de Risco
