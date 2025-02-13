@@ -1,3 +1,8 @@
+➡️ [Seguir para Resultados](../4_resultados/resultados.md)  
+⬅️ [Retornar para Índice](../Readme.md)
+
+---
+
 # 🏗️ Desenvolvimento da Análise
 
 A fase de **desenvolvimento** desta análise abrange toda a documentação técnica e os códigos utilizados para garantir a **confiabilidade e replicabilidade** do estudo. Foram estruturadas etapas detalhadas para:
@@ -34,8 +39,3 @@ A seguir, apresentamos as principais **categorias de garantias analisadas**, cad
 ---
 
 📌 **Cada seção da documentação contém detalhes sobre metodologia, cálculos, regras de negócio e exemplos de código que sustentam as análises realizadas.**
-
-
----
-➡️ [Seguir para Resultados](../4_resultados/resultados.md)  
-⬅️ [Retornar para Índice](../Readme.md)

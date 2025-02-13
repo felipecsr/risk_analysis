@@ -1,3 +1,8 @@
+➡️ [Seguir para Desenvolvimento](../3_desenvolvimento/desenvolvimento.md)  
+⬅️ [Retornar para Índice](../Readme.md)
+
+---
+
 ## 📌 Metodologia Técnica Aplicada
 
 ### 🔎 Análise de Risco Quantitativa
@@ -63,7 +68,3 @@ O processo segue uma lógica estruturada:
 
 Assim, garantimos **confiabilidade e aderência à realidade do negócio**, proporcionando subsídios sólidos para **tomada de decisões e mitigação de riscos**.
 
----
-
-➡️ [Seguir para Desenvolvimento](../3_desenvolvimento/desenvolvimento.md)  
-⬅️ [Retornar para Índice](../Readme.md)

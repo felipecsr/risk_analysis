@@ -1,3 +1,7 @@
+⬅️ [Retornar para Índice](../Readme.md)
+
+---
+
 # 📊 Resultados da Análise de Garantias
 
 ## 🏠 Resultados para Rental
@@ -70,6 +74,3 @@ A análise realizada demonstra que cada componente da garantia (**Rental, Damage
 - **Cobertura para obrigações prováveis**;
 - **Conformidade com exigências regulatórias**;
 - **Alinhamento com melhores práticas do setor**.
-
----
-⬅️ [Retornar para Índice](../Readme.md)

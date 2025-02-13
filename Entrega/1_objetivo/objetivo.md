@@ -1,3 +1,8 @@
+➡️ [Seguir para Metodologia](../2_metodologia/metodologia.md)  
+⬅️ [Retornar para Índice](../Readme.md)
+
+---
+
 ## 🎯 Descrição do Propósito
 
 O principal objetivo desta consultoria é fornecer uma **visão abrangente e fundamentada** sobre o comportamento financeiro de uma carteira de contratos similar à de uma seguradora de finanças locatícias.
@@ -34,7 +39,3 @@ A consultoria abrange toda a **cadeia de informações dos contratos**, passando
 ### 📌 Objetivo Final
 Oferecer aos **stakeholders** uma **visão clara sobre vulnerabilidades e potenciais de retorno**, subsidiando **decisões estratégicas** para a gestão de risco e a sustentabilidade do negócio.
 
----
-
-➡️ [Seguir para Metodologia](../2_metodologia/metodologia.md)  
-⬅️ [Retornar para Índice](../Readme.md)
